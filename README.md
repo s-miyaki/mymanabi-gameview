@@ -99,7 +99,7 @@ MYマナビスタイルでは、決められた教材をこなすことより、
 
 英語教室では、単語や文法の暗記だけに偏らず、プログラミングを通して英語を「道具」として使います。英語が苦手な子や、英語教室が続かなかった子にも向いています。
 
-詳細は公式の [プログラミング教室ページ](https://wkstyle.jp/school) と [英語教室（英語×プログラミング）ページ](https://wkstyle.jp/school/program-english) をご覧ください。
+詳細は公式の [プログラミング教室ページ](https://wkstyle.jp/school) と [英語教室ページ](https://wkstyle.jp/school/program-english) をご覧ください。
 
 ### 選ばれる理由
 
